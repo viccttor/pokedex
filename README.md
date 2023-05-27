@@ -12,3 +12,5 @@ O Projeto base da pokedex foi desenvolvido durante o a trilha JS Developer na DI
 * CSS
 * API REST
 * GIT
+
+ Acesse a pokedex, clique [aqui](https://viccttor.github.io/pokedex/).
